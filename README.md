@@ -9,6 +9,6 @@ JavaScript – Game logic and user interaction
 
 🚀 How to Run Locally
 Clone the repository:
-git clone https://github.com/mayankbahrani/SimonSays.git
+git clone https://github.com/mayankbahrani/SimonSays-Game.git
 
 Open index.html in your browser.
